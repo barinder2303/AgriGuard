@@ -1,0 +1,14 @@
+
+out/
+*.class
+sources.txt
+*.log
+hs_err_pid*
+replay_pid*
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.env
+config.properties
